@@ -1,0 +1,15 @@
+/* styles.css */
+.product-intro {
+  text-align: center;
+  padding: 40px 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.product-intro h1 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+.product-intro p {
+  max-width: 600px;
+  margin: 0 auto;
+  color: #666;
+}
