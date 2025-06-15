@@ -1,4 +1,4 @@
-# 🛍️ Mettā Muse – Artisan E-Commerce Frontend
+# 🛍️ E-Commerce Frontend
 
 A fully responsive and SEO-optimized e-commerce web application built with **Next.js**. It allows users to browse, filter, and sort through products like **Clothes, electronics, and jewelry**, with cart and wishlist functionality powered by **FakeStoreAPI**.
 
